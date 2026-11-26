@@ -168,6 +168,9 @@ function WorkedExample() {
           <p><strong>Reconciles.</strong> 1,200 + 450 = 1,650</p>
         </div>
       </div>
+      <p className="bridge-note">
+        This bridge is an arithmetic decomposition, not proof of what caused the change. The figures are synthetic.
+      </p>
       <p className="example-caption">Synthetic example · Values shown without a specified currency</p>
     </section>
   )
