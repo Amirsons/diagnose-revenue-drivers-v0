@@ -176,6 +176,14 @@ a:focus-visible {
   line-height: 1.8;
 }
 
+.hero-guidance {
+  max-width: 555px;
+  margin: 11px 0 0;
+  color: var(--muted);
+  font-size: 13px;
+  line-height: 1.6;
+}
+
 .hero-actions {
   display: flex;
   align-items: center;

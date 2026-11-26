@@ -74,6 +74,9 @@ function Hero() {
           customer-volume, average-spend, and interaction effects—then checks
           that the pieces add back to the whole.
         </p>
+        <p className="hero-guidance">
+          Review the method and synthetic example before adapting it to your own data.
+        </p>
         <div className="hero-actions">
           <ProjectLink className="hero-cta" />
           <span className="author-note">Made by Amirsons</span>
